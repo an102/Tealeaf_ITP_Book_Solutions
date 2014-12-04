@@ -1,0 +1,3 @@
+#variables6.txt
+
+A variable or method called "shoes" was utlized without being defined.

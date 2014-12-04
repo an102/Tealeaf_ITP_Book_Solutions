@@ -1,0 +1,3 @@
+#methods5.txt
+
+It prints "Yippeee!!!!" and returns nil.

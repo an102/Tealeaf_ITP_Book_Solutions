@@ -1,0 +1,4 @@
+#more3.txt
+
+Exception handling is a means of in-code error prevention which allows a programmer
+to specify and avoid certain possible undesirable events.

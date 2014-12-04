@@ -1,0 +1,3 @@
+#methods6.txt
+
+For a method called "calculate_product," only one of two arguments were given.

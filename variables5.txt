@@ -1,0 +1,4 @@
+#variables5.txt
+
+In the first example, x prints 3. In the second, there is an error message because
+x is only defined within the block.

@@ -1,0 +1,3 @@
+#hashes8.txt
+
+B. The keys method is for hashes, not arrays.

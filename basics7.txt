@@ -1,0 +1,3 @@
+#basics7.txt
+
+A block or hash was ended with a parenthesis instead of a curly brace.

@@ -1,0 +1,3 @@
+#exer7.txt
+
+An array is a group of individual objects, whereas a hash is a group of key-value pairs. 

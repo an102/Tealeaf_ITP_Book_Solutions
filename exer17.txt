@@ -1,0 +1,3 @@
+#exer17.txt
+
+These hashes are the same!

@@ -1,0 +1,5 @@
+
+#hashes7.txt
+
+The first hash will receive the symbol :x for a key.
+The second hash will receive the string "hi there" for a key.

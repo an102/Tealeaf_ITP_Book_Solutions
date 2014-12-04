@@ -1,0 +1,3 @@
+#ctrl6.txt
+
+A block does not include an end statement. Apply the end statement and rerun.

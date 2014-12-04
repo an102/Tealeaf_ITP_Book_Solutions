@@ -1,0 +1,3 @@
+#arrays6.txt
+
+Instead of a string, the value in the brackets could be the index number, in this case, 3.

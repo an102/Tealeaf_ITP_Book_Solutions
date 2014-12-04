@@ -1,0 +1,5 @@
+#arrays5.txt
+
+a = "e"
+b = "T"
+c = "A"
